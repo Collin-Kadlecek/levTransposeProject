@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\kadlecek\source\repos\WindowsProjectTest\x64\Debug\WindowsProjectTest.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\BLD_MATLEV_ftemp_20220812.csv</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\kadlecek\Downloads\toico.ico</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

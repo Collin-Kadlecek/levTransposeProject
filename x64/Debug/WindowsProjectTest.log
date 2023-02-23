@@ -1,0 +1,71 @@
+﻿  WindowsProjectTest.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(32,1): warning C4005: 'CreateWindowA': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(4457): message : see previous definition of 'CreateWindowA'
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(35,1): warning C4005: 'CreateWindowW': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(4461): message : see previous definition of 'CreateWindowW'
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(184,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(196,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(209,34): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(371,30): warning C4244: '=': conversion from 'WCHAR' to 'char', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(378,30): warning C4244: '=': conversion from 'WCHAR' to 'char', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(352,11): warning C4101: 'redV': unreferenced local variable
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(353,11): warning C4101: 'buildArr': unreferenced local variable
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(466,42): warning C4244: '=': conversion from 'WCHAR' to 'char', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(958,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(1127,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(1238,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(1243,55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(1366,30): warning C4244: '=': conversion from 'WCHAR' to 'char', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(1373,30): warning C4244: '=': conversion from 'WCHAR' to 'char', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(1344,11): warning C4101: 'redV': unreferenced local variable
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(1345,11): warning C4101: 'buildArr': unreferenced local variable
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(1467,42): warning C4244: '=': conversion from 'WCHAR' to 'char', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(1791,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(1880,64): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(1935,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(1940,55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(2191,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(2199,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(2253,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(2258,59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(2428,30): warning C4244: '=': conversion from 'WCHAR' to 'char', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(2434,30): warning C4244: '=': conversion from 'WCHAR' to 'char', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(2406,11): warning C4101: 'redV': unreferenced local variable
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(2407,11): warning C4101: 'buildArr': unreferenced local variable
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(2572,45): warning C4244: '=': conversion from 'WCHAR' to 'char', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(2906,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(2989,64): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(3051,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(3056,55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(3226,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(3342,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(3347,59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(3610,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(3697,64): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(3768,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(3773,55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(3852,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(3903,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(3988,64): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(4058,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(4061,55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(4152,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(4451,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(4537,64): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(4597,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(4602,55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(4676,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(4831,1): warning C5043: 'wcstombs_s': exception specification does not match previous declaration
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(1004): message : see declaration of 'wcstombs_s'
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(4840,1): warning C5043: '_wcstombs_s_l': exception specification does not match previous declaration
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(1029): message : see declaration of '_wcstombs_s_l'
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(4972,16): warning C4101: 'com': unreferenced local variable
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(4988,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(5063,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(5032,9): warning C4101: 'endCondition': unreferenced local variable
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(4986,11): warning C4101: 'test': unreferenced local variable
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(5291,56): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(5775,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kadlecek\source\repos\WindowsProjectTest\WindowsProjectTest\WindowsProjectTest.cpp(187): warning C4172: returning address of local variable or temporary: fLoc
+  WindowsProjectTest.vcxproj -> C:\Users\kadlecek\source\repos\WindowsProjectTest\x64\Debug\WindowsProjectTest.exe
